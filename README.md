@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qvoid1x
+- 👀 I’m interested in JS , Java , Python and HTML
+- 🌱 I’m currently learning C# and C++
+- 📫 How to reach me qvoid#9999 on discord
